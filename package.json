@@ -1,0 +1,25 @@
+{
+  "name": "@greycode/gitignore_init",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "gitignore-init": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kculz/gitignore_init.git"
+  },
+  "keywords": [
+    "express",
+    "gitignore",
+    "init",
+    "@greycode"
+  ],
+  "author": "Kudzai Munyama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kculz/gitignore_init/issues"
+  },
+  "homepage": "https://github.com/kculz/gitignore_init#readme"
+}
