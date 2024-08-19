@@ -1,10 +1,14 @@
 {
   "name": "@greycode/gitignore_init",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "src/main.js",
+  "bin": {
+    "gitignore-init": "src/main.js"
+  },
   "scripts": {
-    "gitignore-init": "node src/main.js"
+    "install": "node index.js",
+    "postinstall": "node index.js"
   },
   "repository": {
     "type": "git",
